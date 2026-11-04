@@ -19,7 +19,6 @@
 </tr>
 </table>
 
-<br>
 
 <img src="assets/t-skills.svg" alt="Skills" width="100%">
 
@@ -34,7 +33,6 @@
 </tr>
 </table>
 
-<br>
 
 <img src="assets/t-contact.svg" alt="Contact" width="100%">
 
