@@ -36,9 +36,6 @@
 
 <img src="assets/t-contact.svg" alt="Contact" width="100%">
 
-<a href="https://www.linkedin.com/in/noel-john-jacob/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="210"></a>
-<a href="https://www.instagram.com/no.eeelll/"><img src="assets/c-instagram.svg" alt="Instagram" width="210"></a>
-<a href="https://github.com/noeljj77"><img src="assets/c-github.svg" alt="GitHub" width="210"></a>
-<a href="mailto:noeljohnjacob@gmail.com"><img src="assets/c-email.svg" alt="Email" width="210"></a>
+<a href="https://www.linkedin.com/in/noel-john-jacob/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="25%"></a><a href="https://www.instagram.com/no.eeelll/"><img src="assets/c-instagram.svg" alt="Instagram" width="25%"></a><a href="https://github.com/noeljj77"><img src="assets/c-github.svg" alt="GitHub" width="25%"></a><a href="mailto:noeljohnjacob77@gmail.com"><img src="assets/c-email.svg" alt="Email" width="25%"></a>
 
 </div>
