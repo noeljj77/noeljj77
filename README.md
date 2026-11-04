@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" alt="Noel John Jacob, noeljj77" width="100%">
 
-<br><br>
+<br>
 
 <img src="assets/t-projects.svg" alt="Projects" width="100%">
 
