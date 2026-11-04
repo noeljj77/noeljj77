@@ -43,8 +43,6 @@
 
 <img src="assets/t-contact.svg" alt="Contact" width="100%">
 
-<img src="assets/footer.svg" alt="Got an idea worth building? Pick a command below to get in touch." width="100%">
-
 <a href="https://www.linkedin.com/in/noel-john-jacob/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="210"></a>
 <a href="https://www.instagram.com/no.eeelll/"><img src="assets/c-instagram.svg" alt="Instagram" width="210"></a>
 <a href="https://github.com/noeljj77"><img src="assets/c-github.svg" alt="GitHub" width="210"></a>
