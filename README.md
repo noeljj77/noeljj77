@@ -17,11 +17,6 @@
 <td><a href="https://github.com/noeljj77/digital-twin-wdn-genai"><img src="assets/p5.svg" alt="Digital Twin WDN" width="290"></a></td>
 <td><a href="https://github.com/noeljj77/realtime-fraud-platform"><img src="assets/p6.svg" alt="Fraud Platform" width="290"></a></td>
 </tr>
-<tr>
-<td><a href="https://github.com/noeljj77/Hospital-Interface-Application"><img src="assets/p7.svg" alt="Hospital Interface" width="290"></a></td>
-<td><a href="https://github.com/noeljj77/Calculator"><img src="assets/p8.svg" alt="Calculator" width="290"></a></td>
-<td><a href="https://github.com/noeljj77/Rock-Paper-Scissors"><img src="assets/p9.svg" alt="Rock-Paper-Scissors" width="290"></a></td>
-</tr>
 </table>
 
 <br>
